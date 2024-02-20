@@ -373,21 +373,10 @@ img {
     margin: 0;
     padding: 0;
   }
-  /* .logo{
-        width: 100%;
-        margin: auto;
-        align-items: ce
-      } */
-
-  .search-input {
-    /* width: 80%; */
-  }
   .search-btn {
     display: none;
   }
-  .books {
-    /* display: none; */
-  }
+
   .user-options {
     display: none;
   }
