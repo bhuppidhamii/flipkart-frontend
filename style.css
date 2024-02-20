@@ -339,6 +339,7 @@ img {vertical-align: middle;}
 
 @media only screen and (max-width: 768px) {
     .search-bar {
+      display: none;
         width: 100%;
       }
       
@@ -348,7 +349,9 @@ img {vertical-align: middle;}
     .search-btn{
       display: none;
     }
-
+    .books{
+      /* display: none; */
+    }
     .user-options {
         display: none;
     }
